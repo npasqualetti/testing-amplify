@@ -10,6 +10,11 @@
       "StackName": "amplify-autouploadio-dev-155635",
       "StackId": "arn:aws:cloudformation:us-east-2:838171621650:stack/amplify-autouploadio-dev-155635/5245db40-c759-11ed-a7db-02123534a39c",
       "AmplifyAppId": "dr2ejle12deo3"
+    },
+    "categories": {
+      "auth": {
+        "autouploadio70c44e93": {}
+      }
     }
   }
 }
