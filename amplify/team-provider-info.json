@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-autouploadio-dev-155635-authRole",
+      "UnauthRoleArn": "arn:aws:iam::838171621650:role/amplify-autouploadio-dev-155635-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::838171621650:role/amplify-autouploadio-dev-155635-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-autouploadio-dev-155635-deployment",
+      "UnauthRoleName": "amplify-autouploadio-dev-155635-unauthRole",
+      "StackName": "amplify-autouploadio-dev-155635",
+      "StackId": "arn:aws:cloudformation:us-east-2:838171621650:stack/amplify-autouploadio-dev-155635/5245db40-c759-11ed-a7db-02123534a39c",
+      "AmplifyAppId": "dr2ejle12deo3"
+    }
+  }
+}
